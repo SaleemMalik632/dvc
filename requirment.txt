@@ -1,1 +1,3 @@
-pip install dvc
+dvc
+pandas
+scikit-learn
